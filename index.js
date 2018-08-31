@@ -10,12 +10,6 @@ function multiply(a, b) {
 function divide(a,b) {
   return (a/b)
 }
-function inc(n) {
-  return inc+=
-}
-function dec(n) {
-  return dec-=
-}
 function makeInt(n) {
   return parseInt('n',10)
 }
